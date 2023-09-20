@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    width: 53%;
+}
+.menucon {
+    float: left;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+#menu {
+    width: 100%;
+    height: 50px;
+    background-color: whitesmoke;
+}
+#imagediv {
+    width: auto;
+    height: 150px;
+    background-color: blueviolet;
+    background-image: url(hinh.jpg);
+    background-position-y: 30% ;
+}
+#content {
+    width: auto;
+    height: 500px;
+    background-color: whitesmoke;
+}
+#footer {
+    width: auto;
+    height: 50px;
+    background-color: whitesmoke;
+    line-height: 7px;
+}
+#contentwords2{
+    margin-left: 650px;
+    padding-top: 18px;
+}
